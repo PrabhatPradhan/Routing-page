@@ -1,0 +1,84 @@
+#img{
+    height: 27rem;
+    width: 35rem;
+}
+#mid-main{
+    display: flex;
+    gap: 2rem;
+    margin-left: 2rem;
+}
+#mid-pra{
+    width: 35rem;
+    padding: 2rem;
+   
+}
+#mid-pra h1{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    
+}
+#mid-pra button{
+    border: 1px solid rgb(111, 139, 217);
+    margin-top: 2rem;
+    width: 11rem;
+    height: 3rem;
+    border-radius: 4px;
+    background-color: blue;
+    color: aliceblue;
+}
+#mid-pra button:hover{
+    background-color: rgb(254, 253, 253);
+    color: black;
+}
+#up-main{
+    /* display: flex;
+    flex-direction: column;
+    align-items: flex-start; */
+     height: 35rem;
+     padding-top: 5rem;
+   margin-bottom: 2rem;
+    /* margin-left: 4rem; */
+    background: url('https://media.istockphoto.com/id/1184204517/photo/modern-scandinavian-living-room-interior-3d-render.jpg?s=1024x1024&w=is&k=20&c=NBoxcmopmbeUEENw3-56_s7r85zSWLUXsy9Fo49kdiw=');
+}
+#h-1{
+
+    font-weight: 800;
+    font-size: 3rem;
+    margin-left: 4rem;
+}
+#h-2{
+    font-size: 3rem;
+    font-weight: 800;
+    margin-left: 2rem;
+    color: brown;
+    margin-left: 5rem;
+}
+#p-1{
+    margin-left: 3rem;
+    
+}
+#p-2{
+    margin-left: 5rem;
+}
+#btn-1{
+    margin-left: 3rem;
+    border: 1px solid red;
+    background-color: brown;
+    color: aliceblue;
+    margin-bottom: 2rem;
+    margin-top: 0rem;
+    width: 11rem;
+    height: 3rem;
+    border-radius: 4px;
+    
+}
+#btn-2{
+    margin-left: 3rem;
+    border: 1px solid red;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    width: 11rem;
+    height: 3rem;
+    border-radius: 4px;
+    color: brown;
+}
